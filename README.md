@@ -1,4 +1,4 @@
-# Global Attention 
+# Global Attention Deraining Network
 This code is for my first paper.
 And this is my first project in github.
 
